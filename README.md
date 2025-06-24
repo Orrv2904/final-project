@@ -28,9 +28,9 @@ El proyecto consiste en desarrollar un sistema  para un curso llamado NeoCode, s
 
 ## Tecnologías Utilizadas:
 
-- Arduino con lector de huellas digitales
-- Django, Python y SQL para el desarrollo web
-- Chat GPT API
+- Arduino con lector de huellas digitales.
+- Django, Python y SQL para el desarrollo web.
+- Chat GPT API.
 
   ## Color Reference
 
@@ -49,8 +49,8 @@ El proyecto consiste en desarrollar un sistema  para un curso llamado NeoCode, s
 
 
 ## Fonts
-- Roboto Slab
-- Quantica
-- Raleway
+- Roboto Slab.
+- Quantica.
+- Raleway.
 
 
